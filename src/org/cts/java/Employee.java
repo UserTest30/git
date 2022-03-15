@@ -9,10 +9,10 @@ public class Employee {
 	}
 	private void empName() {
 
-		System.out.println("Employee name is Deva");
+		System.out.println("Employee name is ");
 		System.out.println("Employee name is raj");
-		System.out.println("Employee name is rajj");
-		System.out.println("Employee name is kumar");
+		System.out.println("Employee name is velmurgan");
+		System.out.println("Employee name is subash");
 
 	}
 	
